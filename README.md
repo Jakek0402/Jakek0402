@@ -2,10 +2,4 @@
 <p>Cringo Linguisto, also known as the "cringe tongue", or "cringe speak", is the official language and dialect of most cringe people on the planet. It is unknown where Cringo Linguisto originated, although some speculate it originated from Michigan.</p>
 <h2>Examples of Cringo Linguisto</h2>
 <p>It is astonishingly difficult for the average person to learn Cringo Linguisto, it is typically known to be even more difficult than a college course of calculus. Some examples include "yu'ore", "tuo ceringo". It is unknown what these translate to, but one could presume it would be cringe.</p>
-
-
-
-
-<head>
-<meta content="Cringo" property="og:description">
-</head>
+<img src="https://cdn.discordapp.com/attachments/544684174288748564/916601425851719710/unknown.png">
